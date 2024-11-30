@@ -24,7 +24,7 @@ cd discord_bot
 ```
 #
 ```
-nano .env
+nano /home/ubuntu/discord_bot/.env
 ```
 #
 ```
